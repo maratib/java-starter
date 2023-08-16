@@ -1,2 +1,6 @@
-# Java with JUnit 5 Starter
+# Java Starter
+with
+- Java 11
+- JUnit 5
+
 
