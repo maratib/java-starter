@@ -4,6 +4,7 @@ with
 
 - Java 11
 - JUnit 5
+- Maven JAR plugin
 - VSCode test settings
 
 ```bash
